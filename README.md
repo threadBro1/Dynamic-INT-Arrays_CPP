@@ -15,7 +15,7 @@ int main(){
   int SIZE = 5; //Set start SIZE array
   int *arr = new int[SIZE]//Create arr and Memory Allocation
   
-  Array.FillArra(arr,SIZE);
+  Array.FillArray(arr,SIZE);
   /*
     FilArray(You Array,SIZE arr);
     Fill you arr,to random numbers
