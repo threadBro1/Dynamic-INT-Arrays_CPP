@@ -53,7 +53,7 @@ int main(){
   
   Array.pop_start(arr,SIZE);
    /*
-    pop_back(You Array,SIZE arr);
+    pop_start(You Array,SIZE arr);
     delete first value;
   */
   
